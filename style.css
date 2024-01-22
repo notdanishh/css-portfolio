@@ -1,0 +1,95 @@
+#hero{
+  background-image: linear-gradient(to right, rgb(163, 215, 249) , rgb(44, 74, 156));
+  display: flex;
+  padding-top: 200px;
+  text-align: center;
+ justify-content: center;
+ margin-bottom: 0;
+ padding-bottom: 100px;
+}
+.danish{
+  color: wheat;
+}
+.top{
+  font-size: 70px;
+  color: rgb(65, 63, 63);
+}
+.self{
+  padding-top: 50px;
+  font-size: 40px;
+  color: rgb(65, 63, 63);
+}
+#footer{
+  display: flex;
+
+}
+.second{
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  padding: 100px;
+}
+
+.img{
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+.para{
+ font-size: 25px;
+}
+.skills{
+  display: grid;
+  justify-content: center;
+  background-image: linear-gradient(to right, rgb(163, 215, 249) , rgb(44, 74, 156));
+  padding: 75px;
+  text-align: center;
+
+}
+.list{
+  text-align: justify;
+  font-size: larger;
+  font-weight: bold;
+}
+li{
+  margin-top: 20px;
+  font-size: larger;
+}
+.contact{
+  display: grid;
+  text-align: center;
+  padding: 100px;
+  padding-bottom: 50px;
+}
+.touch{
+  font-size: 30px;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 0px;
+}
+.button{
+font-size: 30px;
+background-color: rgb(129, 176, 204);
+border-radius: 10px;
+border-width: 0;
+padding: 10px;
+
+}
+.container{
+  margin-bottom: 100px;
+}
+.footer{
+  display: grid;
+  background-color: rgb(129, 176, 204);
+
+padding: 80px;
+align-items: stretch;
+
+}
+.socials{
+  display: flex;
+  justify-content: space-between;
+}
